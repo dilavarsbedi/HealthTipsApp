@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Health Tips</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="about">About</string>
+    <string name="healthy_lifestyle">Healthy Lifestyle</string>
+    <string name="daily_health_tips">Daily health tips that help you live better</string>
+    <string name="all">All</string>
+    <string name="favorite">Favorite</string>
+    <string name="tip_detail">Tip detail</string>
+    <string name="close">Close</string>
+    <string name="about_text">Health Tips helps you build small, consistent habits for better sleep, movement, nutrition, and daily wellness.</string>
+</resources>
